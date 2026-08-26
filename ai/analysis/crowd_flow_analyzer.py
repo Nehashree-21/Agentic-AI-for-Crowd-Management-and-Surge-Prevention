@@ -124,3 +124,4 @@ class CrowdFlowAnalyzer:
             "movement_change":
                 movement_change
         }
+    
