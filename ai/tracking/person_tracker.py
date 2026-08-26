@@ -6,7 +6,7 @@ class PersonTracker:
         self,
         model_path="yolov8m.pt",
         confidence=0.20,
-        image_size=1280
+        image_size=1536
     ):
         print(f"Loading tracking model: {model_path}")
 
